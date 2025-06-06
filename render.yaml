@@ -18,7 +18,7 @@ services:
       - key: N8N_PORT
         value: "5678"
       - key: WEBHOOK_TUNNEL_URL
-        value: "https://telebotexp.onrender.com"
+        value: "https://telebotexp.onrender.com/"
       - key: VUE_APP_URL_BASE_API
         value: "https://telebotexp.onrender.com/"
       - key: NODE_ENV
